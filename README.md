@@ -75,3 +75,8 @@ Serão avaliados os seguintes pontos:
 1. Crie um fork deste repositório.
 2. Implemente a solução.
 3. Faça commits frequentes e claros.
+
+![print](./assets/print1.png)
+![print](./assets/print2.png)
+![print](./assets/print3.png)
+![print](./assets/print4.png)
